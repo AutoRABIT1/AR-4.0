@@ -119,6 +119,7 @@
         <members>QAobject__c</members>
         <members>TAFObject__c</members>
         <members>Test12__c</members>
+        <members>Test4__c</members>
         <members>TestObj__c</members>
         <members>Test__c</members>
         <members>Testing__c</members>
