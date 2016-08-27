@@ -109,6 +109,7 @@
     </types>
     <types>
         <members>Host_URL</members>
+        <members>Test4</members>
         <members>X4_0_Test</members>
         <name>CustomLabel</name>
     </types>
