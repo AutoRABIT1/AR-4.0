@@ -390,6 +390,7 @@
     </types>
     <types>
         <members>Account.Test</members>
+        <members>Account.Tests</members>
         <members>Metric.Completion</members>
         <members>Metric.Progress</members>
         <members>NewObject__c.Test1</members>
