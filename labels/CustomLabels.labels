@@ -7,4 +7,11 @@
         <shortDescription>Host URL</shortDescription>
         <value>cs16.visualforce.com</value>
     </labels>
+    <labels>
+        <fullName>X4_0_Test</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>4.0 Test</shortDescription>
+        <value>100</value>
+    </labels>
 </CustomLabels>
