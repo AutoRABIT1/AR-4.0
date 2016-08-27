@@ -55,6 +55,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Obj4__c</fullName>
+        <externalId>false</externalId>
+        <label>Obj4</label>
+        <length>12</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Test4</label>
     <nameField>
         <label>Test4 Name</label>

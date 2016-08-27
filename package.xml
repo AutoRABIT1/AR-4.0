@@ -92,6 +92,7 @@
         <members>TAFObject__c.TAFField7__c</members>
         <members>TAFObject__c.TAFField8__c</members>
         <members>TAFObject__c.TAFField9__c</members>
+        <members>Test4__c.Obj4__c</members>
         <members>TestObj__c.TestField1__c</members>
         <members>TestObj__c.TestField2__c</members>
         <members>TestObj__c.TestField3__c</members>
@@ -249,6 +250,7 @@
         <members>TAFObject__c-TAFObject Layout</members>
         <members>Task-Task Layout</members>
         <members>Test12__c-Test12 Layout</members>
+        <members>Test4__c-Test4 Layout</members>
         <members>TestObj__c-TestObj Layout</members>
         <members>Testing__c-Testing Layout</members>
         <members>User-User Layout</members>
