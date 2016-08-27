@@ -362,6 +362,7 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Queue4</members>
         <members>Test</members>
         <name>Queue</name>
     </types>
