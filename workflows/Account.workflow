@@ -49,6 +49,16 @@
             <workflowTimeTriggerUnit>Hours</workflowTimeTriggerUnit>
         </workflowTimeTriggers>
     </rules>
+    <rules>
+        <fullName>Test4%2E0</fullName>
+        <active>false</active>
+        <criteriaItems>
+            <field>Account.Name</field>
+            <operation>equals</operation>
+            <value>Testa</value>
+        </criteriaItems>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
     <tasks>
         <fullName>t</fullName>
         <assignedTo>shamshuddink9@gmail.com</assignedTo>
