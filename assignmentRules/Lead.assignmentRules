@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignmentRule>
+        <fullName>Standard</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>shamshuddink9@gmail.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.Country</field>
+                <operation>equals</operation>
+                <value>US,USA,United States,United States of America</value>
+            </criteriaItems>
+        </ruleEntry>
+        <ruleEntry>
+            <assignedTo>shamshuddink9@gmail.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.Country</field>
+                <operation>notEqual</operation>
+                <value>US,USA,United States,United States of America</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>test1</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <assignedTo>shamshuddink9@gmail.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.AnnualRevenue</field>
+                <operation>equals</operation>
+                <value>2145.001</value>
+            </criteriaItems>
+            <criteriaItems>
+                <field>Lead.AnnualRevenue</field>
+                <operation>notEqual</operation>
+                <value>5247859.012</value>
+            </criteriaItems>
+            <criteriaItems>
+                <field>Lead.AnnualRevenue</field>
+                <operation>equals</operation>
+                <value>45789012</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+</AssignmentRules>

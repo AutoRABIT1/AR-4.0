@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Host_URL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Host URL</shortDescription>
+        <value>cs16.visualforce.com</value>
+    </labels>
+</CustomLabels>
