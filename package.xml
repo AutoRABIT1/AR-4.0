@@ -120,6 +120,7 @@
         <members>TestObj__c</members>
         <members>Test__c</members>
         <members>Testing__c</members>
+        <members>X4_0_Object__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -249,6 +250,7 @@
         <members>Testing__c-Testing Layout</members>
         <members>User-User Layout</members>
         <members>WorkFeedback-Feedback Layout</members>
+        <members>X4_0_Object__c-4%2E0 Object Layout</members>
         <name>Layout</name>
     </types>
     <types>
