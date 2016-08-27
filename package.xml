@@ -256,6 +256,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>AbObject__c.Queue4_AbObject</members>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
@@ -289,6 +290,7 @@
         <members>Lead.TodaysLeads</members>
         <members>Lead.ViewCustom1</members>
         <members>Lead.ViewCustom2</members>
+        <members>Macro.Newqueue4_Macro</members>
         <members>Macro.Test_Macro</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
@@ -362,6 +364,7 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Newqueue4</members>
         <members>Queue4</members>
         <members>Test</members>
         <name>Queue</name>

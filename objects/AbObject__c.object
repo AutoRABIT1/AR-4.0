@@ -66,6 +66,15 @@
         <unique>false</unique>
     </fields>
     <label>AbObject</label>
+    <listViews>
+        <fullName>Queue4_AbObject</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Queue4</label>
+        <queue>Queue4</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+    </listViews>
     <nameField>
         <label>AbObject Name</label>
         <type>Text</type>
