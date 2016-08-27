@@ -404,6 +404,11 @@
         <field>Testing__c.TestingF3__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>X4_0_Object__c.Test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>AbObject__c-AbObject Layout</layout>
     </layoutAssignments>
@@ -524,6 +529,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>WorkFeedback-Feedback Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>X4_0_Object__c-4%2E0 Object Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>true</default>

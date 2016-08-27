@@ -103,6 +103,7 @@
         <members>Testing__c.TestingF1__c</members>
         <members>Testing__c.TestingF2__c</members>
         <members>Testing__c.TestingF3__c</members>
+        <members>X4_0_Object__c.Test__c</members>
         <name>CustomField</name>
     </types>
     <types>
