@@ -2,7 +2,9 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>37.0</version>
     <types>
+        <members>ARApexTest</members>
         <members>CreateAccNov13</members>
+        <members>NewApexTest</members>
         <members>myHandler</members>
         <name>ApexClass</name>
     </types>
